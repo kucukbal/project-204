@@ -4,7 +4,7 @@ services:
   database:
     image: mysql:5.7
     environment:
-      MYSQL_ROOT_PASSWORD: Mk123456
+      MYSQL_ROOT_PASSWORD: Mk125290
       MYSQL_DATABASE: phonebook_db
       MYSQL_USER: admin
       MYSQL_PASSWORD: Mk125290
